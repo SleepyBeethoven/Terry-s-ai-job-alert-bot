@@ -1,0 +1,110 @@
+enabled_sources:
+  remotive: true
+  adzuna: true
+  arbeitnow: true
+
+country: au
+minimum_score: 60
+max_jobs_per_source: 50
+
+search_queries:
+  - AI Project Manager
+  - AI Data Operations Project Manager
+  - AI Data Operations Coordinator
+  - AI Training Operations Specialist
+  - Data Quality Team Lead
+  - Human-in-the-Loop AI
+  - Project Manager Generative AI Data Operations
+  - AI Model Evaluation Project Lead
+  - AI Model Evaluation Lead
+  - AI Safety Operations
+  - Safety Model Operations
+  - Data Annotation Project Coordinator
+  - AI Data Service Operations
+  - Project Coordinator AI Data Annotation
+  - Group Leader AI Data Operations
+  - Team Lead AI Data Operations
+  - Team Lead Safety Model Operations
+
+positive_keywords:
+  - ai operations
+  - data operations
+  - model evaluation
+  - human-in-the-loop
+  - human in the loop
+  - data annotation
+  - rlhf
+  - llm evaluation
+  - quality analyst
+  - quality lead
+  - project manager
+  - project coordinator
+  - operations specialist
+  - operations coordinator
+  - trust and safety
+  - safety operations
+  - ai trainer
+  - ai training
+  - bilingual
+  - mandarin
+  - chinese
+  - generative ai
+  - ai data
+  - ai data services
+  - reviewer
+  - evaluator
+  - moderation
+  - moderator
+  - calibration
+  - qa lead
+  - team lead
+  - group lead
+
+negative_keywords:
+  - machine learning engineer
+  - senior software engineer
+  - software engineer
+  - research scientist
+  - computer vision engineer
+  - data scientist
+  - backend engineer
+  - frontend engineer
+  - full stack engineer
+  - devops
+  - kubernetes
+  - pytorch
+  - tensorflow
+  - phd
+  - principal engineer
+  - staff engineer
+  - ai researcher
+  - ml researcher
+
+title_bonus_keywords:
+  - operations
+  - project manager
+  - project coordinator
+  - team lead
+  - quality
+  - evaluation
+  - annotation
+  - trust and safety
+  - model evaluation
+
+description_bonus_keywords:
+  - llm
+  - ai data
+  - rlhf
+  - human-in-the-loop
+  - human in the loop
+  - evaluator
+  - reviewer
+  - qa
+  - moderation
+  - bilingual
+  - mandarin
+  - chinese
+
+notifications:
+  telegram: true
+  email: true

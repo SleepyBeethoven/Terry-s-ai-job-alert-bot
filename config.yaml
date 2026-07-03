@@ -5,7 +5,7 @@ enabled_sources:
 
 country: au
 minimum_score: 60
-max_jobs_per_source: 50
+max_jobs_per_source: 120
 
 search_queries:
   - AI Project Manager
@@ -25,6 +25,33 @@ search_queries:
   - Group Leader AI Data Operations
   - Team Lead AI Data Operations
   - Team Lead Safety Model Operations
+  - Language Lead English to Simplified Chinese
+  - Simplified Chinese Localization QA Specialist
+  - Localization Specialist Mandarin
+  - Chinese Language Specialist AI Trainer
+  - Mandarin Chinese Language Specialist AI Trainer
+  - Chinese Copywriter
+  - Chinese Content Editor
+  - Chinese Writer
+  - Chinese Script Writer
+  - Content Risk Evaluation Specialist Mandarin
+  - Senior Content Analyst Mandarin
+  - Executive Assistant Operations Coordinator Bilingual English Mandarin
+  - Supply Chain Project Key Account Coordinator Chinese Speaking
+  - Product Sourcing Supplier Liaison Coordinator English Mandarin
+  - Operations Manager Directed Content
+  - Mandarin Content Quality Analyst
+  - Chinese Content Quality Analyst
+  - Mandarin Language Quality Analyst
+  - Simplified Chinese Language Quality Analyst
+  - Bilingual Mandarin Content Operations
+  - Bilingual Mandarin Operations Coordinator
+  - Chinese Localization Project Coordinator
+  - Mandarin Localization Project Coordinator
+  - Chinese AI Content Specialist
+  - Mandarin AI Content Specialist
+  - Chinese LLM Evaluator
+  - Mandarin LLM Evaluator
 
 positive_keywords:
   - ai operations
@@ -59,6 +86,45 @@ positive_keywords:
   - qa lead
   - team lead
   - group lead
+  - simplified chinese
+  - traditional chinese
+  - native mandarin
+  - mandarin chinese
+  - english to simplified chinese
+  - localization
+  - localisation
+  - localization qa
+  - lqa
+  - language quality
+  - linguistic quality
+  - language lead
+  - language specialist
+  - content quality
+  - content analyst
+  - content risk
+  - risk evaluation
+  - content safety
+  - ai content
+  - llm evaluator
+  - language model
+  - copywriter
+  - content editor
+  - content writer
+  - script writer
+  - editorial
+  - editorial quality
+  - directed content
+  - executive assistant
+  - key account coordinator
+  - supply chain project
+  - product sourcing
+  - supplier liaison
+  - vendor coordination
+  - stakeholder coordination
+  - cross-cultural
+  - bilingual english mandarin
+  - english mandarin
+  - chinese speaking
 
 negative_keywords:
   - machine learning engineer
@@ -79,6 +145,25 @@ negative_keywords:
   - staff engineer
   - ai researcher
   - ml researcher
+  - court interpreter
+  - medical interpreter
+  - onsite interpreter
+  - phone interpreter
+  - casual interpreter
+  - freelance translator only
+  - subtitle translator only
+  - customer service representative
+  - call center
+  - retail assistant
+  - sales assistant
+  - tutor only
+  - teacher only
+  - teaching assistant
+  - warehouse worker
+  - factory worker
+  - social media intern
+  - unpaid internship
+  - commission only
 
 title_bonus_keywords:
   - operations
@@ -90,6 +175,28 @@ title_bonus_keywords:
   - annotation
   - trust and safety
   - model evaluation
+  - language lead
+  - localization qa
+  - localization specialist
+  - language specialist
+  - ai trainer
+  - content risk
+  - content analyst
+  - content quality
+  - content editor
+  - copywriter
+  - script writer
+  - executive assistant
+  - operations coordinator
+  - key account coordinator
+  - supply chain project
+  - product sourcing
+  - supplier liaison
+  - directed content
+  - mandarin
+  - chinese
+  - simplified chinese
+  - bilingual
 
 description_bonus_keywords:
   - llm
@@ -104,6 +211,24 @@ description_bonus_keywords:
   - bilingual
   - mandarin
   - chinese
+  - native mandarin
+  - simplified chinese
+  - mandarin chinese
+  - bilingual english mandarin
+  - localization
+  - language quality
+  - content quality
+  - content risk
+  - ai trainer
+  - llm evaluator
+  - editorial
+  - copywriting
+  - stakeholder coordination
+  - vendor coordination
+  - supplier liaison
+  - cross-cultural
+  - apac
+  - china market
 
 notifications:
   telegram: true
